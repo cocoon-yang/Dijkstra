@@ -42,7 +42,6 @@ var Response  = [ 368.15, 1554.25, 378.33, 1535.03, 371.88,
 		1559.06, 372.45, 1553.26 ];
 
 var DIMENSION = 2;
-var i;
 
 function get( i,  j) {
 	var N = DIMENSION;
