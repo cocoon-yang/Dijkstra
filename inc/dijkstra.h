@@ -82,12 +82,9 @@ public:
 	void addVertex(int i);
 	void addEdge(int a, int b, double w);
 	void dijkstra(int a, int b);
-
+	double distance(int i, int j);	
 	void print_path(int);
-
 	void show();
-
-	double distance(int i, int j);
 	int length();
 public:
 	Vertex **_vertices;
