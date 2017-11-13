@@ -2,7 +2,7 @@
 Node.js module of Dijkstra algorithm
 
 
-Only header files and sorce files of the Dijkstra algorighm are provided, the other foldes, such as /node, /lib, /Build/Release are the same as in https://github.com/cocoon-yang/fann-node
+Only header files and sorce files of the Dijkstra algorighm are provided, the other foldes, such as /node, /lib, /Build/Release, are the same as in https://github.com/cocoon-yang/fann-node
 
 
 Example:
